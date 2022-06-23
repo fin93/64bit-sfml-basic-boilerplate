@@ -5,6 +5,10 @@ definitely should have chocolatey as it makes life easier
 
 open powershell as admin
 
-```choco install mingw```
-```choco install make```
+```
+choco install mingw
+```
+```
+choco install make
+```
 in the main directory type ```make``` to build
